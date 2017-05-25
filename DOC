@@ -2,7 +2,10 @@ SCRAPY - 파이썬
 HERITRIX - 자바
 APACHE NUTCH - 자바
 
-크롤링 : 
+* AWS / TOMCAT / JAVA 설정
+https://tkddlf59.github.io/2016/09/12/2016-09-12-aws2/
+
+* 크롤링 : 
 http://engineering.buzzni.com/2015/06/21/bigdata-tutorial-first-crawler.html
 
 * 솔라
