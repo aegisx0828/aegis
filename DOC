@@ -19,3 +19,6 @@ https://cwiki.apache.org/confluence/display/solr/Installing+Solr
 
 * 솔라-RDB 데이터 연동
 https://www.toadworld.com/platforms/oracle/w/wiki/11010.indexing-oracle-database-table-data-in-apache-solr
+
+* SpringBoot-MonggoDB Ref
+https://spring.io/guides/gs/accessing-data-mongodb/
