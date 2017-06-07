@@ -43,3 +43,8 @@ http://wildpup.cafe24.com/archives/734
 
 * SOLR 검색엔진 개괄
 http://m.blog.naver.com/sealriel/220008394422
+
+* 리눅스 명령어
+사용하는 포트 확인 : netstat -anp | grep "LISTEN"
+프로세스 확인 : ps -ef | grep "프로세스 명"
+
