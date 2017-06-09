@@ -1,8 +1,11 @@
 Ref Document
 =============
 > ###### Markdown ref : https://gist.github.com/ihoneymon/652be052a0727ad59601#23-목록
-Solr Project (http://lucene.apache.org/solr/)
+Solr Project 
 -------------
+* 공식 홈페이지 http://lucene.apache.org/solr/
+* 위키 https://wiki.apache.org/solr/FrontPage
+* 컨플루언스 https://cwiki.apache.org/confluence/display/solr/About+This+Guide
 1. solr 디렉토리 구조
 > http://dev-b.blogspot.kr/2012/10/apache-solr-3-enterprise-search-server.html
 
