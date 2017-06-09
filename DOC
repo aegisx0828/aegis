@@ -48,4 +48,10 @@ http://m.blog.naver.com/sealriel/220008394422
 사용하는 포트 확인 : netstat -anp | grep "LISTEN"
 프로세스 확인 : ps -ef | grep "프로세스 명"
 
-* solrcloud
+* solrcloud의 sqlconfig.xml 환경설정
+When you try SolrCloud for the first time using the bin/solr -e cloud, the related configset gets uploaded to zookeeper automatically and is linked with the newly created collection. The below command would start SolrCloud with the default collection name (gettingstarted) and default configset (data_driven_schema_configs) uploaded and linked to it.
+here is the path for the config files
+../solr-5.1.0/server/solr/configsets
+if you don't mention the configset, the default is "data_driven_schema_configs".
+So you will find your config files here
+../solr-5.1.0/server/solr/configsets/data_driven_schema_configs
