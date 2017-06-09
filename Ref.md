@@ -14,9 +14,17 @@ Solr Project
 > 참고 사이트 : https://stackoverflow.com/questions/30093340/cannot-find-proper-solrconfig-xml-file-for-configuration-in-solr-5-1-0
 
 > ../solr-5.1.0/server/solr/configsets/data_driven_schema_configs **해당 위치에 존재함**
-```ruby
-require 'tabbit'
-table = Tabbit.new('Name', 'Email')
-table.add_row('Tim Green', 'tiimgreen@gmail.com')
-puts table.to_s
+```xml
+<dataConfig>
+  <dataSource type="JdbcDataSource" 
+              driver="com.mysql.jdbc.Driver"
+              url="jdbc:mysql://localhost/dbname" 
+              user="user-name" 
+              password="password"/>
+  <document>
+    <entity name="id" 
+            query="select id,name,desc from mytable">
+    </entity>
+  </document>
+</dataConfig>
 ```
