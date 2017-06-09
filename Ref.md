@@ -10,3 +10,5 @@ Solr Project (http://lucene.apache.org/solr/)
 > 참고 사이트 : https://stackoverflow.com/questions/30093340/cannot-find-proper-solrconfig-xml-file-for-configuration-in-solr-5-1-0
 
 > ../solr-5.1.0/server/solr/configsets/data_driven_schema_configs **해당 위치에 존재함**
+
+3. 
