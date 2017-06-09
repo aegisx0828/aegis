@@ -13,10 +13,10 @@ Solr Project
 > 참고 사이트 : https://stackoverflow.com/questions/30093340/cannot-find-proper-solrconfig-xml-file-for-configuration-in-solr-5-1-0
 
 > ../solr-5.1.0/server/solr/configsets/data_driven_schema_configs **해당 위치에 존재함**
-<pre><code>
+<code>
   <requestHandler name="/dataimport" class="org.apache.solr.handler.dataimport.DataImportHandler">
     <lst name="defaults">
       <str name="config">/home/username/data-config.xml</str>
     </lst>
   </requestHandler>
-</code></pre>
+</code>
