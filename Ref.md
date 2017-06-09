@@ -1,6 +1,7 @@
 Ref Document
 =============
-> ###### Markdown ref : https://gist.github.com/ihoneymon/652be052a0727ad59601#23-목록
+> ###### Markdown ref : https://gist.github.com/ihoneymon/652be052a0727ad59601#23-목록 , https://wikidocs.net/1678
+
 Solr Project 
 -------------
 * 공식 홈페이지 http://lucene.apache.org/solr/
