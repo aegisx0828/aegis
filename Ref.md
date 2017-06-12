@@ -28,3 +28,5 @@ Solr Project
   </document>
 </dataConfig>
 ```
+3. solr RDB 연동 참고
+> https://wiki.apache.org/solr/DIHQuickStart
