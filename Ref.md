@@ -30,3 +30,4 @@ Solr Project
 ```
 3. solr RDB 연동 참고
 > https://wiki.apache.org/solr/DataImportHandler
+> oracle Driver 설치 필요 : server/lib 폴더에 jar 파일 설치
