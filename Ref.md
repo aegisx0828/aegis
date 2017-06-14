@@ -29,12 +29,11 @@ Solr Project
 </dataConfig>
 ```
 3. solr RDB 연동 참고
-> https://wiki.apache.org/solr/DataImportHandler
+* https://wiki.apache.org/solr/DataImportHandler
 
-> oracle Driver 설치 필요 : server/lib 폴더에 jar 파일 설치 : http://www.oracle.com/technetwork/database/features/jdbc/index-091264.html
+* oracle Driver 설치 필요 : server/lib 폴더에 jar 파일 설치 : http://www.oracle.com/technetwork/database/features/jdbc/index-091264.html
 
-> solrcloud 버전으로 처음 진행하다가, solrconfig.xml 설정문제(zookeeper 확인필요)로 standalone 버전으로 진행
-
-   1. solr 서버 기동
-   2. core 생성 시 오류가 날 경우(Unable to create core Caused by: org.apache.solr.handler.dataimport.DataImportHandler)
-   참조 : https://stackoverflow.com/questions/14827375/solr-4-1-dataimporthandler-classnotfoundexception
+* solrcloud 버전으로 처음 진행하다가, solrconfig.xml 설정문제(zookeeper 확인필요)로 standalone 버전으로 진행
+  1. solr 서버 기동
+  2. core 생성 시 오류가 날 경우(Unable to create core Caused by: org.apache.solr.handler.dataimport.DataImportHandler)
+  참조 : https://stackoverflow.com/questions/14827375/solr-4-1-dataimporthandler-classnotfoundexception
