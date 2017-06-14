@@ -37,3 +37,4 @@ Solr Project
   1. solr 서버 기동
   2. core 생성 시 오류가 날 경우(Unable to create core Caused by: org.apache.solr.handler.dataimport.DataImportHandler)
   참조 : https://stackoverflow.com/questions/14827375/solr-4-1-dataimporthandler-classnotfoundexception
+  3. solr core가 생성 될때, solrconfig.xml, data-config.xml 등 (../solr/configsets/data_driven_schema_configs/) 위치의 설정파일들이 core 디렉토리에 복사본이 만들어진다.
