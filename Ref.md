@@ -46,4 +46,5 @@ Solr Project
 * 3. Solr Core 생성
 * 4. solrconfig.xml, data-config.xml, managed-schema 설정
 * 5. Indexing 실행
-
+> 1. 첫 설정 시 core를 생성하면 ../server/solr/configsets/data_driven_schema_configs/conf 안의 설정 내용들이 core의 설정으로 초기화 됨
+> 2. uniqueKey 가 default로 id로 설정되어 있어 이부분을 example test로 empno 로 변경 함.
