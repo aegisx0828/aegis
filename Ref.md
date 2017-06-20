@@ -41,9 +41,9 @@ Solr Project
 * solr rdb 연동 예제 : http://blog.naver.com/mankeys/220914286596
 
 #### 4. solr RDB 연동 인덱싱 방법 정리
-1. Solr 서버 설치
-2. Solr 서버 start
-3. Solr Core 생성
-4. solrconfig.xml, data-config.xml, managed-schema 설정
-5. Indexing 실행
+* 1. Solr 서버 설치
+* 2. Solr 서버 start
+* 3. Solr Core 생성
+* 4. solrconfig.xml, data-config.xml, managed-schema 설정
+* 5. Indexing 실행
 
