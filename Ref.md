@@ -52,3 +52,6 @@ Solr Project
 > <p>data-config.xml : 실제 db 연결정보 및 indexing 할 테이블/entity 정리 </p>
 > <p>managed-schema : indexing 할 테이블 컬럼 type 및 uniqueKey 설정</p>
 
+#### 5. solr 서버에 arirang 환경 설치
+* 참조 : https://m.blog.naver.com/PostView.nhn?blogId=kgj1&logNo=220676136150&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
+
