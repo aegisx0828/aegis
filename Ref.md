@@ -7,9 +7,11 @@ Solr Project
 * 공식 홈페이지 http://lucene.apache.org/solr/
 * 위키 https://wiki.apache.org/solr/FrontPage
 * 컨플루언스 https://cwiki.apache.org/confluence/display/solr/About+This+Guide
+
 =============
 #### 1. solr 디렉토리 구조
 * http://dev-b.blogspot.kr/2012/10/apache-solr-3-enterprise-search-server.html
+
 =============
 #### 2. solrcloud 시 sqlconfig.xml 위치
 * 참고 사이트 : https://stackoverflow.com/questions/30093340/cannot-find-proper-solrconfig-xml-file-for-configuration-in-solr-5-1-0
@@ -28,6 +30,7 @@ Solr Project
   </document>
 </dataConfig>
 ```
+
 =============
 #### 3. solr RDB 연동 참고
 * https://wiki.apache.org/solr/DataImportHandler
@@ -41,6 +44,7 @@ Solr Project
   3. solr core가 생성 될때, solrconfig.xml, data-config.xml 등 (../solr/configsets/data_driven_schema_configs/) 위치의 설정파일들이 core 디렉토리에 복사본이 만들어진다.
   
 * solr rdb 연동 예제 : http://blog.naver.com/mankeys/220914286596
+
 =============
 #### 4. solr RDB 연동 인덱싱 방법 정리
 * 1. Solr 서버 설치
@@ -53,6 +57,7 @@ Solr Project
 > * solrconfig.xml : data-config.xml 연동 설정 및 solr-dataimport lib 패스 추가 </p>
 > * data-config.xml : 실제 db 연결정보 및 indexing 할 테이블/entity 정리 </p>
 > * managed-schema : indexing 할 테이블 컬럼 type 및 uniqueKey 설정</p>
+
 =============
 #### 5. solr 서버에 arirang 환경 설치
 * 참조 : https://m.blog.naver.com/PostView.nhn?blogId=kgj1&logNo=220676136150&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
