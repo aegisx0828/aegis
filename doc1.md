@@ -4,4 +4,4 @@
 * FTP Root로 접속 : http://akaisun.tistory.com/36
 
 ## 2. AWS - JAVA 추가 설치
-* AWS에는 기본적으로 JDK1.7이 설치되어, solr 서버를 돌리기 위해 JDK1.8 설치 
+* AWS에는 기본적으로 JDK1.7이 설치되어, solr 서버를 돌리기 위해 JDK1.8 설치가 필요
