@@ -59,3 +59,7 @@ Solr Project
 
 * 참조 : https://m.blog.naver.com/PostView.nhn?blogId=kgj1&logNo=220676136150&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
 
+## 6. JAVA Thread 참고
+
+* 참조 : http://jdm.kr/blog/69
+ 
