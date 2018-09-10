@@ -16,5 +16,8 @@
 * [GIT 공홈 메뉴얼](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC%EB%9E%80%3F)  
 
 ## 2. Docker 란
-> * Docker는 컨테이너 기반의 오픈소스 가상화 플랫폼
-> 
+* Docker는 컨테이너 기반의 오픈소스 가상화 플랫폼
+
+
+[/TOC]
+ 
